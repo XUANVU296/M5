@@ -1,0 +1,33 @@
+.name-index-container {
+    margin: 20px;
+}
+
+.add-new-link {
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.name-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.name-table th,
+.name-table td {
+    padding: 8px;
+    border: 1px solid #dddddd;
+    text-align: left;
+}
+
+.name-table th {
+    background-color: #f2f2f2;
+}
+
+.edit-link,
+.delete-link {
+    margin-right: 5px;
+    text-decoration: none;
+    color: #007bff;
+}
